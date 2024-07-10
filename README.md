@@ -9,5 +9,7 @@
     font-display: swap;
 }
 
-  
+.OngleapKwonsieun {
+    font-family: "OngleapKwonsieun";
+} 
 </pre>
